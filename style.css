@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background-color: #327389;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    position: absolute;
+    top: 30px;
+}
+
+#equationBox {
+    text-align: center;
+    height: 10%;
+    width: 20%;
+    padding-left: 40%;
+    font-size: 100%
+}
+
+#answerBox {
+    font-size: 150%;
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    top: 30%;
+    left: 47%;
+}
+
+#inputDiv {
+    position: absolute;
+    left: 47%;
+    top: 45%;
+
+}
+
+#answer {
+    display: none;
+}
+
+button {
+    background-color: white;
+}
+
+#buttonDiv {
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    width: 250px;
+}
+
+.numberButtons {
+    width: 80px;
+    height: 50px;
+}
+
+#submitDiv {
+    position: absolute;
+    left: 45%;
+    top: 80%;
+    height: 20px;
+}
